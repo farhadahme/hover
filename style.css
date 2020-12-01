@@ -1,0 +1,25 @@
+body{
+    width: 1000px;
+    border: 1px solid transparent;
+    margin: auto;
+}
+.border{
+    width: 900px;
+    height: 900px;
+    margin: auto;
+    position: relative;
+}
+.hover{
+    
+    height: 900px;
+}
+.hover:hover{
+    background-image: url("bg.png");
+    background-repeat:no-repeat;
+    
+}
+.w h1{
+    position: absolute;
+    top: 131px;
+    left: 124px;
+}
